@@ -1,0 +1,13 @@
+dash==1.21.0 #for developing dash web apps
+dash-bootstrap-components==0.13.0 #for dash bootstrap functionalities
+dash-core-components==1.71.1 #for dash core functionalities
+dash-html-components==2.0.0 #for html functionality
+dash-extensions==0.0.60 #for external dash dependencies
+dash-table==5.0.0 #for rendering tables into HTML tables
+jupyter-dash==0.4.0 #for runnning dash apps on jupyter
+plotly==5.3.1 #for data visualization
+pandas==1.3.2 #for data manipulation
+pandas-datareader==0.10.0 #for financial and economic data extraction
+wbdata==0.3.0 #for world bank data extraction
+jsonlib==1.6.1 #for data manipulating
+dash==2.0.0 #for developing a web app
